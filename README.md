@@ -5,4 +5,4 @@ OpenFrameworks-based ImGui / ImNodes / ImPlot framework
 - direct manipulation of program variables
 - optimized for Open Sound Control input and output
 
-WIP!
+# NOTE: you must update to imGui 1.88 to work with ImNodes
